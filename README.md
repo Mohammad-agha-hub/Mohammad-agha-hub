@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mohammad Agha👋
 
-<!--
-**Mohammad-agha-hub/Mohammad-agha-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend-Focused Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a backend-focused full stack developer with hands-on experience building modern web applications. I enjoy designing and implementing scalable APIs, working with databases, and building reliable systems that support real product needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I work with
+- **Frontend:** React, Next.js  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, SQL  
+- **Other:** REST APIs, Git, basic system design concepts
+
+### 💡 What I enjoy
+- Building clean and maintainable backend logic  
+- Designing RESTful APIs  
+- Working with both NoSQL and relational databases  
+- Learning how scalable systems are designed and optimized  
+
+### 🎯 Current focus
+- Deepening backend development skills  
+- Improving API design and data modeling  
+- Learning more about performance, scalability, and system design  
+
+### 📫 Let’s connect
+- LinkedIn: (https://www.linkedin.com/in/mohammad-agha-349a56388/) 
+  
+---
+
+⭐ Always learning, building, and improving.
