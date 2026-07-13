@@ -26,11 +26,11 @@ I've shipped several complete products — each one with a frontend I built myse
 
 ##  Experience
 
-- **Software Engineer** — *Quantum Kurv* · 2025 – Present<br>
+- **Software Engineer** — *Quantum Kurv* · 2025–Present<br>
   Build and maintain web applications and internal systems for a UK software consultancy, owning projects from planning through launch and ongoing improvement.
-- **Software Engineer** — *Arctesia* · 2024 – 2025<br>
+- **Software Engineer** — *Arctesia* · 2024–2025<br>
   Build and ship client web applications end-to-end at a digital-solutions agency — designing APIs and data models and implementing the frontends on top.
-- **Online Instructor & Freelance Developer** — *Self-Employed* · 2024 – Present<br>
+- **Online Instructor & Freelance Developer** — *Self-Employed* · 2023–Present<br>
   Teach web development through project-based lessons, and ship freelance software/website work for local clients and small businesses.
 
 ---
@@ -47,6 +47,7 @@ I've shipped several complete products — each one with a frontend I built myse
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -78,10 +79,10 @@ A queue-driven email engine: upload a list, send in throttled batches, and **aut
 - 🔗 [Backend](https://github.com/Mohammad-agha-hub/Email_management_backend) · [Frontend](https://github.com/Mohammad-agha-hub/Email_marketing_frontend)
 
 ###  School Management System
-A full student-information system: admissions, classes, exams, results, fees, and year-to-year promotions.
+A full student-information system: admissions, classes, exams, results, fees, payroll, and year-to-year promotions — plus the school's public website.
 - **Concurrent BullMQ import worker** turning bulk CSVs into users, students, and admissions — with race-safe roll-number assignment
 - **PDF report cards & fee receipts** generated with Puppeteer, behind a dedicated rate limiter
-- Term-based admissions & promotions modeled in PostgreSQL
+- Term-based admissions, promotions, fees, and staff payroll modeled in PostgreSQL, with analytics for administrators
 - **Stack:** Next.js · Express · PostgreSQL · BullMQ/Redis · Puppeteer
 - 🔗 [Backend](https://github.com/Mohammad-agha-hub/school_backend) · [Frontend](https://github.com/Mohammad-agha-hub/school_frontend)
 
@@ -100,7 +101,7 @@ A production business website with a self-serve blog CMS behind a private admin 
 - **Stack:** Next.js · Prisma/MySQL · JWT · Cloudinary · Resend
 - 🔗 [Live site](https://quantumkurv.co.uk) · [GitHub](https://github.com/quantumkurv1/Quantum-Kurv)
 
-> Also shipped and live: **[Algrey Cleaning Services](https://algreyscleaningservices.co.uk)** (Next.js + MongoDB + custom blog CMS) and **[NSK School](https://nsk-school.vercel.app)** (Next.js marketing site).
+> Also shipped and live: **[Algrey Cleaning Services](https://algrey-website.vercel.app)** (Next.js + MongoDB + custom blog CMS) and **[NSK School](https://nsk-school.vercel.app)** (Next.js marketing site).
 
 ---
 
