@@ -27,10 +27,13 @@ I've shipped several complete products — each one with a frontend I built myse
 ##  Experience
 
 - **Software Engineer** — *Quantum Kurv* · 2025–Present
+  
   Build and maintain web applications and internal systems for a UK software consultancy, owning projects from planning through launch and ongoing improvement.
 - **Software Engineer** — *Arctesia* · 2024–2025
+  
   Build and ship client web applications end-to-end at a digital-solutions agency — designing APIs and data models and implementing the frontends on top.
 - **Online Instructor & Freelance Developer** — *Self-Employed* · 2024–Present
+  
   Teach web development through project-based lessons, and ship freelance software/website work for local clients and small businesses.
 
 ---
