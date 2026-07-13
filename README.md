@@ -93,11 +93,14 @@ A production business website with a self-serve blog CMS behind a private admin 
 
 ---
 
-##  GitHub stats
+##  GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-agha-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-agha-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <a href="https://github.com/Mohammad-agha-hub?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mohammad-agha-hub?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Mohammad-agha-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -107,4 +110,4 @@ A production business website with a self-serve blog CMS behind a private admin 
 - **LinkedIn:** [mohammad-agha](https://www.linkedin.com/in/mohammad-agha-349a56388/)
 - **GitHub:** [Mohammad-agha-hub](https://github.com/Mohammad-agha-hub)
 
-<p align="center"><i>⭐ Always learning, building, and improving.</i></p>
+<p align="center"><i> Always learning, building, and improving.</i></p>
