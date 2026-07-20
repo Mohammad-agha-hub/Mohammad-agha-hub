@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammad Agha 👋</h1>
+<h1 align="center">Hi, I'm Mohammad Agha</h1>
 
 <p align="center">
   <b>Backend-Focused Full-Stack Developer</b><br>
@@ -76,7 +76,7 @@ A queue-driven email engine: upload a list, send in throttled batches, and **aut
 - Database as the single source of truth for reliable resume; CSV/Excel ingestion with DB-level dedup
 - Domains, open-tracking, analytics, templates, and Svix webhooks behind role-based JWT auth
 - **Stack:** TypeScript · Express · BullMQ/Redis · MySQL (Drizzle) · React · TanStack Query
-- 🔗 [Backend](https://github.com/Mohammad-agha-hub/Email_management_backend) · [Frontend](https://github.com/Mohammad-agha-hub/Email_marketing_frontend)
+-  [Live site](https://email-marketing-frontend-seven.vercel.app/)
 
 ###  School Management System
 A full student-information system: admissions, classes, exams, results, fees, payroll, and year-to-year promotions — plus the school's public website.
@@ -84,7 +84,6 @@ A full student-information system: admissions, classes, exams, results, fees, pa
 - **PDF report cards & fee receipts** generated with Puppeteer, behind a dedicated rate limiter
 - Term-based admissions, promotions, fees, and staff payroll modeled in PostgreSQL, with analytics for administrators
 - **Stack:** Next.js · Express · PostgreSQL · BullMQ/Redis · Puppeteer
-- 🔗 [Backend](https://github.com/Mohammad-agha-hub/school_backend) · [Frontend](https://github.com/Mohammad-agha-hub/school_frontend)
 
 ###  Al-Qaym Aid — Blood Donor Network
 A nonprofit platform connecting donors, hospitals, and patients, with a multilingual admin CMS.
@@ -92,14 +91,14 @@ A nonprofit platform connecting donors, hospitals, and patients, with a multilin
 - Site content editable per language (English / Urdu / Farsi) as JSONB — no redeploy needed
 - First-run admin bootstrap with bcrypt + httpOnly-cookie JWT auth
 - **Stack:** Next.js · Express · PostgreSQL · JWT · Cloudinary
-- 🔗 [Backend](https://github.com/Mohammad-agha-hub/Al-Qaym-Backend) · [Frontend](https://github.com/Mohammad-agha-hub/Al-Qaym-Aid-Frontend)
+-  [Live site](https://al-qaym-aid.vercel.app/)
 
 ###  Quantum Kurv — Live Client Site + Custom CMS
 A production business website with a self-serve blog CMS behind a private admin panel.
 - JWT-authenticated admin over a **Prisma + MySQL** blog (SEO fields, categories, tags)
 - Cloudinary uploads, Resend email, and reCAPTCHA-guarded forms
 - **Stack:** Next.js · Prisma/MySQL · JWT · Cloudinary · Resend
-- 🔗 [Live site](https://quantumkurv.co.uk) · [GitHub](https://github.com/quantumkurv1/Quantum-Kurv)
+-  [Live site](https://quantumkurv.co.uk)
 
 > Also shipped and live: **[Algrey Cleaning Services](https://algrey-website.vercel.app)** (Next.js + MongoDB + custom blog CMS) and **[NSK School](https://nsk-school.vercel.app)** (Next.js marketing site).
 
